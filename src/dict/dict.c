@@ -3,7 +3,7 @@
 
 #include <stdlib.h>
 #include <string.h>
-#include <kuesji/liste.h>
+#include <liste/liste.h>
 
 typedef struct dict dict;
 
